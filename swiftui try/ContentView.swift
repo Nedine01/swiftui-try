@@ -232,7 +232,7 @@ struct CShape : Shape {
             
             //adding curve (bottom right corner)
             
-            path.addArc(center: CGPoint(x: rect.width - 40, y: rect.height - 50), radius: 40, startAngle: .zero, endAngle: .init(degrees: 180), clockwise: false)
+            path.addArc(center: CGPoint(x: rect.width - 40, y: rect.height - 90), radius: 40, startAngle: .zero, endAngle: .init(degrees: 180), clockwise: false)
         }
     }
 }
