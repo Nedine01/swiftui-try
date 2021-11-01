@@ -12,6 +12,7 @@ struct swiftui_tryApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            print("othman is da best")
         }
     }
 }
