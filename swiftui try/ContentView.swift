@@ -12,7 +12,7 @@ struct ContentView: View {
         Home()
             .edgesIgnoringSafeArea(.all)
             .statusBar(hidden: true)
-        //try
+        //try1
     }
 }
 
